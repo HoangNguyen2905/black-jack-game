@@ -1,0 +1,33 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4cAo9leaiu9mo3B7Wmq_VFoWf1uTPdYJE-A&usqp=CAU");
+    text-align: center;
+    background-size: cover;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 60px;
+    color: rgb(194, 194, 59);
+}
+
+p {
+    font-size: 30px;
+    color: white;
+}
+
+button {
+    height: 50px;
+    width: 230px;
+    color:bisque;
+    background-color: rgb(73, 88, 78);
+    font-size: 22px;
+    border-color:rgb(210, 233, 148);
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: rgb(110, 110, 33);
+}
+
+button:hover {
+    background-color: rgb(117, 172, 153);
+    cursor: pointer;
+}
